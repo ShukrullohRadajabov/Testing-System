@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "subjectId": 1,
+    "quantity": 3,
+    "score": 1,
+    "createdAt": "2022-11-28T13:02:14.897832300"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "subjectId": 2,
+    "quantity": 2,
+    "score": 1,
+    "createdAt": "2022-11-28T13:03:39.941648400"
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "subjectId": 1,
+    "quantity": 3,
+    "score": 3,
+    "createdAt": "2022-11-28T13:04:09.572302100"
+  }
+]

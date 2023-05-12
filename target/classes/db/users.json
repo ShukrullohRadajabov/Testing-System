@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "fullName": "Adminjon",
+    "phoneNumber": "+998901234567",
+    "password": "4567",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "fullName": "Javlonbek",
+    "phoneNumber": "+998901112233",
+    "password": "2233",
+    "role": "USER"
+  },
+  {
+    "id": 3,
+    "fullName": "Alibaba",
+    "phoneNumber": "+998999999999",
+    "password": "9999",
+    "role": "USER"
+  }
+]

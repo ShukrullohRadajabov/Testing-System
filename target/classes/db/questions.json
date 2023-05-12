@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "subjectId": 1,
+    "text": "2+2*2\u003d?",
+    "keys": [
+      "4",
+      "8",
+      "9",
+      "6"
+    ],
+    "correctAnswer": "6"
+  },
+  {
+    "id": 2,
+    "subjectId": 1,
+    "text": "2*2\u003d?",
+    "keys": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "id": 3,
+    "subjectId": 2,
+    "text": "apple\u003d?",
+    "keys": [
+      "anor",
+      "nok",
+      "behi",
+      "olma"
+    ],
+    "correctAnswer": "olma"
+  },
+  {
+    "id": 4,
+    "subjectId": 2,
+    "text": "laptop\u003d?",
+    "keys": [
+      "tablet",
+      "playstation",
+      "car",
+      "notebook"
+    ],
+    "correctAnswer": "notebook"
+  },
+  {
+    "id": 5,
+    "subjectId": 1,
+    "text": "5\u003e3",
+    "keys": [
+      "false",
+      "f",
+      "0",
+      "true"
+    ],
+    "correctAnswer": "true"
+  }
+]
